@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+
+# Ignore system files (macOS)
+.DS_Store
+__MACOSX/
+._*
+
+# Ignore large files / models
+*.h5
+*.pkl
+*.vec
